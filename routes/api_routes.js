@@ -49,7 +49,4 @@ module.exports = function (app) {
         res.json(err);
       });
   });
-
-  // /api/workouts
-  // /api/workouts/range
 };
