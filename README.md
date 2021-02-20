@@ -88,7 +88,7 @@ Below is a link to examine what the front-end of the application looks like.
 
 
 # Project Link
-[Deployed Heroku App]() <br>
+[Deployed Heroku App](https://fitness-tracker-1-0.herokuapp.com/) <br>
 [Project Repository](https://github.com/spenrad/Fitness-Tracker) <br>
 
 ----
